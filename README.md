@@ -21,25 +21,79 @@ I'm a passionate **Full Stack Developer** who loves building modern, scalable, a
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react,redux,vuejs,nextjs,nuxtjs,tailwind,bootstrap,wordpress,figma" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,django" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,sqlite,cloudflare" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,php,md" />
+</p>
+
+### DSA & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow,opencv" />
+</p>
+
+### Animation, Video Editing & Graphic Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=ae,pr,blender,figma" />
+</p>
+
+### Mobile App & Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,robloxstudio,godot,expo" />
+</p>
+
+### Os
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows,kali,ubuntu,mint" />
+</p>
+
+### Terminals
+
+<p>
+<img src="https://skillicons.dev/icons?i=bash,powershell,lua" />
+</p>
+
+### Version Controll
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+### Editors
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vscodium,sublime,vim,pycharm,clion,qt,replit,firebase" />
+</p>
+
+### Deployments
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=postman,cmake,gmail,discord,bots,npm,yarn,webpack,webflow" />
 </p>
 
 ---
