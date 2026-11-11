@@ -1,236 +1,220 @@
 # 👋 Hi, I'm Sami (CodeWithMSami)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js+Developer;AI+%26+Web+Development+Enthusiast;Building+Modern+Web+Applications" />
+<div align="center">
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00A8FF&center=true&vCenter=true&width=800&height=55&lines=Full+Stack+Developer;Modern+C%2B%2B+%26+Systems+Programming;Next.js+%7C+React+%7C+TypeScript;Game+Engine+%26+Graphics+Development;AI+%26+LLM+Engineering"
+    alt="Typing SVG"
+  />
+  <img src="images/main.png" alt="CodeWithMSami Banner" width="100%" />
+
+  <h3>Learn · Build · Innovate</h3>
+
+  <p>Developer · Programmer · AI Enthusiast</p>
+
+  <p>
+    Exploring software engineering, computer science, web development,
+    game development, and artificial intelligence.
+  </p>
+
+  <a href="https://github.com/CodeWithMSami">
+    <img src="https://img.shields.io/badge/GitHub-CodeWithMSami-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://youtube.com/@CodeWithMSami">
+    <img src="https://img.shields.io/badge/YouTube-CodeWithMSami-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
+  </a>
+  <a href="https://codewithmsami.netlify.app">
+    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=googlechrome" alt="Website" />
+  </a>
+  <a href="mailto:codewithmsami@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** who loves building modern, scalable, and user-friendly applications.
+I'm Sami, a developer interested in building software and understanding the technology behind it.
 
-- 💻 I build web applications using **React, Next.js, Node.js, and Python**
-- 🚀 Interested in **Artificial Intelligence, Web Development, and Automation**
-- 🧠 Always learning new technologies and improving my skills
-- 🛠️ Love solving problems and creating useful software
-- 🌎 Open to collaboration on interesting projects
+I enjoy exploring different areas of computer science, experimenting with tools, and improving my programming skills.
 
----
-
-## 🧑‍💻 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react,redux,vuejs,nextjs,nuxtjs,tailwind,bootstrap,wordpress,figma" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,django" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,sqlite,cloudflare" />
-</p>
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,php,md" />
-</p>
-
-### DSA & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow,opencv" />
-</p>
-
-### Animation, Video Editing & Graphic Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=ae,pr,blender,figma" />
-</p>
-
-### Mobile App & Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,robloxstudio,godot,expo" />
-</p>
-
-### Os
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows,kali,ubuntu,mint" />
-</p>
-
-### Terminals
-
-<p>
-<img src="https://skillicons.dev/icons?i=bash,powershell,lua" />
-</p>
-
-### Version Controll
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-</p>
-
-### Editors
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vscodium,sublime,vim,pycharm,clion,qt,replit,firebase" />
-</p>
-
-### Deployments
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=postman,cmake,gmail,discord,bots,npm,yarn,webpack,webflow" />
-</p>
+- 💻 Interested in software engineering and programming.
+- ⚙️ Exploring systems programming and modern C++.
+- 🌐 Interested in full-stack and modern web development.
+- 🎮 Exploring game development and computer graphics.
+- 🤖 Interested in artificial intelligence and LLM engineering.
+- 🎨 Also interested in animation, video editing, and 3D graphics.
 
 ---
 
-# 🛠️ What I Build
+## 🛠️ Technologies & Tools
 
-## 🌐 Web Applications
+An evolving collection of technologies, frameworks, and tools I use and explore.
 
-- Full-stack SaaS applications
-- Admin dashboards
-- E-commerce platforms
-- Portfolio websites
-- REST APIs
-- Authentication systems
+### Programming Languages
 
-## 🤖 AI Projects
-
-- AI-powered applications
-- Chatbots
-- Automation tools
-- AI integrations using APIs
-
-## ⚙️ Developer Tools
-
-- Scripts
-- Automation utilities
-- Open-source projects
-
----
-
-# 🚀 Featured Projects
-
-## 📒 iNoteBook
-
-A full-stack note management application.
-
-**Tech:**
-- React
-- Node.js
-- Express
-- MongoDB
-
-Features:
-- User authentication
-- Create/update/delete notes
-- Secure API
-- Responsive UI
-
-
----
-
-## 🌐 Portfolio Website
-
-A modern developer portfolio built with:
-
-- Next.js
-- React
-- Tailwind CSS
-- SEO optimization
-
-Features:
-- Responsive design
-- Animations
-- Project showcase
-- Contact system
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeWithMSami&show_icons=true&theme=tokyonight" />
-
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=c,cpp,cs,assembly,java,javascript,typescript,python,php,lua,luau&theme=dark" alt="Programming Languages" />
 </p>
 
-<p align="center">
+### Web Fundamentals & Markup
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithMSami&theme=tokyonight" />
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,markdown&theme=dark" alt="Web Fundamentals" />
+</p>
 
+### Frontend Development
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=vite,react,redux,vuejs,nextjs,nuxtjs,tailwindcss,bootstrap&theme=dark" alt="Frontend Technologies" />
+</p>
+
+### Backend Development & APIs
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=nodejs,expressjs,nestjs,flask,django,postman,api" alt="Backend Technologies" />
+</p>
+
+### Databases & Backend Platforms
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=mongodb,mysql,postgresql,sqlite,supabase,firebase,dbeaver,clerk" alt="Databases" />
+</p>
+
+### Artificial Intelligence & Data Science
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=anaconda,scikitlearn,pytorch,tensorflow,opencv,scipy,seaborn,matplotlib,numpy,pandas,jupyter,langchain,ollama" alt="AI and Data Science" />
+</p>
+
+### Mobile & Game Development
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=unity,androidstudio,expo,robloxstudio,godot,pygame" alt="Mobile and Game Development" />
+</p>
+
+### Desktop & GUI Development
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=qt" alt="Desktop Development" />
+</p>
+
+### UI/UX, Animation & Creative Software
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=figma,blender,aftereffects,premiere,canva" alt="Creative Software" />
+</p>
+
+### Build Systems, Bundlers & Package Managers
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=cmake,webpack,npm,yarn,docker" alt="Build Tools" />
+</p>
+
+### Development Environments & Editors
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=neovim,vim,vscode,visualstudio,vscodium,sublime,pycharm,clion,replit" alt="Development Environments" />
+</p>
+
+### Version Control
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=git,github,githubactions,gitlab,githubpages" alt="Version Control" />
+</p>
+
+### Operating Systems
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=linux,windows,kali,ubuntu,mint" alt="Operating Systems" />
+</p>
+
+### Shells & Command-Line Environments
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=bash,powershell,terminal" alt="Command Line Tools" />
+</p>
+
+### Cloud & Deployment Platforms
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=vercel,netlify,cloudflare,kaggle,huggingface" alt="Cloud and Deployment" />
+</p>
+
+### CMS & Website Builders
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=wordpress,webflow" alt="CMS and Website Builders" />
+</p>
+
+### Communication & Community
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=portfolio,outlook,gmail,discord,facebook,instagram" alt="Communication Tools" />
+</p>
+
+### Automation & Bots
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=discordbots,langchain,ollama" alt="Automation and Bots" />
+</p>
+
+### Other Tools
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=chatgpt,claude,githubcopilot,gemini,chrome,firefox,edge,googleanalytics,pbi,excel,leetcode" alt="Automation and Bots" />
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 🧭 Areas of Interest
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWithMSami&theme=tokyonight" />
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-trophies.vercel.app/?username=CodeWithMSami&theme=tokyonight&row=1&column=6" />
-
-</p>
+| Area | Interests |
+|---|---|
+| Software Engineering | Programming, problem solving, software architecture |
+| Systems Programming | C++, low-level development, computer science |
+| Game Development | Game engines, graphics programming, rendering |
+| Web Development | Frontend, backend, full-stack applications |
+| Artificial Intelligence | Machine learning, deep learning, LLM engineering |
+| Creative Development | Animation, video editing, 3D graphics |
 
 ---
 
-# 📚 Currently Learning
+## 📚 Learning & Exploration
 
-- Advanced Next.js
-- AI Engineering
-- Machine Learning
-- Cloud Deployment
-- DevOps
-- System Design
+I believe in understanding fundamentals, learning continuously, and improving through practical experimentation.
+
+My interests and learning direction evolve as I explore new technologies and concepts.
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Connect With Me
 
-<p>
-<a href="https://github.com/CodeWithMSami">
-<img src="https://img.shields.io/badge/GitHub-CodeWithMSami-black?style=for-the-badge&logo=github">
-</a>
+<div align="center">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
+  <a href="https://github.com/CodeWithMSami">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://youtube.com/@CodeWithMSami">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
+  </a>
+  <a href="https://codewithmsami.netlify.app">
+    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=googlechrome" alt="Website" />
+  </a>
+  <a href="mailto:codewithmsami@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 
-</p>
+</div>
 
 ---
 
-# 💡 Developer Quote
+<div align="center">
 
-> "Code is not just instructions for computers; it's a way to turn ideas into reality."
+  <h3>Thanks for visiting!</h3>
 
----
+  <p><strong>Learn · Build · Innovate</strong></p>
 
-⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and connect with me.
+</div>
