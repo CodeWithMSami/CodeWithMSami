@@ -1,236 +1,81 @@
-# 👋 Hi, I'm Sami (CodeWithMSami)
+# Hey, I'm Sami 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js+Developer;AI+%26+Web+Development+Enthusiast;Building+Modern+Web+Applications" />
+### CodeWithMSami · Developer · Lifelong Learner
 
----
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer** who loves building modern, scalable, and user-friendly applications.
-
-- 💻 I build web applications using **React, Next.js, Node.js, and Python**
-- 🚀 Interested in **Artificial Intelligence, Web Development, and Automation**
-- 🧠 Always learning new technologies and improving my skills
-- 🛠️ Love solving problems and creating useful software
-- 🌎 Open to collaboration on interesting projects
+I enjoy building software, exploring computer science, and understanding how things work under the hood. My interests include web development, systems programming, game development, and AI.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## About Me
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react,redux,vuejs,nextjs,nuxtjs,tailwind,bootstrap,wordpress,figma" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,django" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,sqlite,cloudflare" />
-</p>
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,php,md" />
-</p>
-
-### DSA & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow,opencv" />
-</p>
-
-### Animation, Video Editing & Graphic Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=ae,pr,blender,figma" />
-</p>
-
-### Mobile App & Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,robloxstudio,godot,expo" />
-</p>
-
-### Os
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows,kali,ubuntu,mint" />
-</p>
-
-### Terminals
-
-<p>
-<img src="https://skillicons.dev/icons?i=bash,powershell,lua" />
-</p>
-
-### Version Controll
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-</p>
-
-### Editors
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vscodium,sublime,vim,pycharm,clion,qt,replit,firebase" />
-</p>
-
-### Deployments
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=postman,cmake,gmail,discord,bots,npm,yarn,webpack,webflow" />
-</p>
+- 💻 Exploring modern software development with **C++, TypeScript, and Python**
+- 🌐 Building web experiences with **React, Next.js, and Tailwind CSS**
+- ⚙️ Learning systems and graphics programming with **C++, CMake, SDL3, and OpenGL**
+- 🤖 Interested in **AI, machine learning, and LLM engineering**
+- 🎬 Also interested in video editing, animation, and 3D creation
+- 📚 I enjoy learning by experimenting, building, and understanding the fundamentals
 
 ---
 
-# 🛠️ What I Build
+## Technologies & Tools
 
-## 🌐 Web Applications
+**Languages**
 
-- Full-stack SaaS applications
-- Admin dashboards
-- E-commerce platforms
-- Portfolio websites
-- REST APIs
-- Authentication systems
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
 
-## 🤖 AI Projects
+**Web Development**
 
-- AI-powered applications
-- Chatbots
-- Automation tools
-- AI integrations using APIs
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-## ⚙️ Developer Tools
+**Systems & Game Development**
 
-- Scripts
-- Automation utilities
-- Open-source projects
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![SDL](https://img.shields.io/badge/SDL3-173B3F?style=flat-square)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Ninja](https://img.shields.io/badge/Ninja-000000?style=flat-square)
 
----
+**Tools & Environment**
 
-# 🚀 Featured Projects
-
-## 📒 iNoteBook
-
-A full-stack note management application.
-
-**Tech:**
-- React
-- Node.js
-- Express
-- MongoDB
-
-Features:
-- User authentication
-- Create/update/delete notes
-- Secure API
-- Responsive UI
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌐 Portfolio Website
+## Areas of Interest
 
-A modern developer portfolio built with:
-
-- Next.js
-- React
-- Tailwind CSS
-- SEO optimization
-
-Features:
-- Responsive design
-- Animations
-- Project showcase
-- Contact system
-
+- Software engineering and computer science
+- Systems programming and low-level development
+- Game engines and graphics programming
+- Full-stack web development
+- Artificial intelligence and LLM engineering
+- Animation, video editing, and 3D graphics
 
 ---
 
-# 📊 GitHub Stats
+## Currently Exploring
 
-<p align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeWithMSami&show_icons=true&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithMSami&theme=tokyonight" />
-
-</p>
+I'm steadily expanding my knowledge of modern C++, CMake, SDL3, OpenGL, and AI engineering while continuing to improve my web development skills.
 
 ---
 
-# 📈 Most Used Languages
+## Connect
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWithMSami&theme=tokyonight" />
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-trophies.vercel.app/?username=CodeWithMSami&theme=tokyonight&row=1&column=6" />
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Advanced Next.js
-- AI Engineering
-- Machine Learning
-- Cloud Deployment
-- DevOps
-- System Design
-
----
-
-# 🤝 Let's Connect
-
-<p>
-<a href="https://github.com/CodeWithMSami">
-<img src="https://img.shields.io/badge/GitHub-CodeWithMSami-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
-
----
-
-# 💡 Developer Quote
-
-> "Code is not just instructions for computers; it's a way to turn ideas into reality."
+- 🌐 Website: [codewithmsami.netlify.app](https://codewithmsami.netlify.app)
+- 💻 GitHub: [@CodeWithMSami](https://github.com/CodeWithMSami)
 
 ---
 
 ⭐ Thanks for visiting my profile!
 
-Feel free to explore my repositories and connect with me.
+**Learn · Build · Innovate**
