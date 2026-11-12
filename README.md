@@ -3,7 +3,7 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00A8FF&center=true&vCenter=true&width=800&height=55&lines=Full+Stack+Developer;Modern+C%2B%2B+%26+Systems+Programming;Next.js+%7C+React+%7C+TypeScript;Game+Engine+%26+Graphics+Development;AI+%26+LLM+Engineering"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00A8FF&center=true&vCenter=true&width=800&height=55&lines=Full+Stack+Developer;Modern+C%2B%2B+%26+Systems+Programming;Next.js+%7C+React+%7C+TypeScript;Game+Engine+%26+Graphics+Development;Assembly+%26+Low+Level+Programming;AI+%26+LLM+Engineering"
     alt="Typing SVG"
   />
   <img src="images/main.png" alt="CodeWithMSami Banner" width="100%" />
@@ -189,6 +189,28 @@ I believe in understanding fundamentals, learning continuously, and improving th
 My interests and learning direction evolve as I explore new technologies and concepts.
 
 ---
+<p align="center">
+  <img src="https://gitshine.com/card/CodeWithMSami?theme=night" width="100%" alt="Contribution Activity Graph" />
+</p>
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=CodeWithMSami&theme=tokyonight&row=1&column=6" width="100%" alt="GitHub Trophies" />
+</p>
+
+
+## 📊 GitHub Profile Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=CodeWithMSami&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CodeWithMSami&layout=compact&theme=tokyonight&hide_border=true" height="200" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeWithMSami&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
+</p>
 
 ## 🤝 Connect With Me
 
